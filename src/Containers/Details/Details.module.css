@@ -1,0 +1,23 @@
+.Info {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-size: 13px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
+.ReadMore {
+  visibility: hidden;
+}
+
+.StarIcon {
+  color: rgb(34, 217, 241);
+}
+
+@media (min-width: 1200px) {
+  .Content {
+    width: 30%;
+    background-color: rgb(172, 172, 102);
+  }
+}

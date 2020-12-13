@@ -1,0 +1,11 @@
+body {
+  background-color: #fdf9e4;
+}
+
+.Info {
+  visibility: hidden;
+}
+
+.StarIcon {
+  color: rgb(34, 217, 241);
+}

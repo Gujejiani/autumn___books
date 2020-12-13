@@ -1,0 +1,28 @@
+/* Book Cards Container */
+.Container {
+  position: absolute;
+  width: 60%;
+  background-color: rgb(233, 233, 213);
+
+  margin-bottom: 20px;
+  top: 350px;
+  left: 50%;
+  transform: translate(-50%);
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (min-width: 1200px) {
+  .Container {
+    width: 55%;
+  }
+}
+
+@media (max-width: 600px) {
+  .Container {
+    width: 85%;
+  }
+}

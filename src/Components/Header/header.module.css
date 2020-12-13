@@ -1,0 +1,17 @@
+.Container {
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  height: 170px;
+  left: 0px;
+  top: 0px;
+}
+
+.Img {
+  position: relative;
+  width: 100%;
+  height: 130px;
+  background: url("https://i.ibb.co/bbg1p4W/narrative.jpg") no-repeat center -430px;
+
+  background-attachment: fixed;
+}
