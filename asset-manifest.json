@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/autumn___books/static/css/main.35160903.chunk.css",
+    "main.js": "/autumn___books/static/js/main.19b16916.chunk.js",
+    "main.js.map": "/autumn___books/static/js/main.19b16916.chunk.js.map",
+    "runtime-main.js": "/autumn___books/static/js/runtime-main.7b620149.js",
+    "runtime-main.js.map": "/autumn___books/static/js/runtime-main.7b620149.js.map",
+    "static/js/2.acda46b7.chunk.js": "/autumn___books/static/js/2.acda46b7.chunk.js",
+    "static/js/2.acda46b7.chunk.js.map": "/autumn___books/static/js/2.acda46b7.chunk.js.map",
+    "static/js/3.52a3ff5d.chunk.js": "/autumn___books/static/js/3.52a3ff5d.chunk.js",
+    "static/js/3.52a3ff5d.chunk.js.map": "/autumn___books/static/js/3.52a3ff5d.chunk.js.map",
+    "index.html": "/autumn___books/index.html",
+    "static/css/main.35160903.chunk.css.map": "/autumn___books/static/css/main.35160903.chunk.css.map",
+    "static/js/2.acda46b7.chunk.js.LICENSE.txt": "/autumn___books/static/js/2.acda46b7.chunk.js.LICENSE.txt",
+    "static/media/autumn.fcfc5677.png": "/autumn___books/static/media/autumn.fcfc5677.png",
+    "static/media/flower-1.541da7d0.jpg": "/autumn___books/static/media/flower-1.541da7d0.jpg",
+    "static/media/flower-10.c3528739.jpg": "/autumn___books/static/media/flower-10.c3528739.jpg",
+    "static/media/flower-2.dfb4098a.jpg": "/autumn___books/static/media/flower-2.dfb4098a.jpg",
+    "static/media/flower-4.00fc64b9.jpg": "/autumn___books/static/media/flower-4.00fc64b9.jpg",
+    "static/media/flower-6.e1db6835.jpg": "/autumn___books/static/media/flower-6.e1db6835.jpg",
+    "static/media/flower-7.5577455b.jpg": "/autumn___books/static/media/flower-7.5577455b.jpg",
+    "static/media/flower-9.2cd1fe4a.jpg": "/autumn___books/static/media/flower-9.2cd1fe4a.jpg",
+    "static/media/flower.7127a560.jpg": "/autumn___books/static/media/flower.7127a560.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b620149.js",
+    "static/js/2.acda46b7.chunk.js",
+    "static/css/main.35160903.chunk.css",
+    "static/js/main.19b16916.chunk.js"
+  ]
+}
