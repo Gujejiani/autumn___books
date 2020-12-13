@@ -26,9 +26,9 @@ class Fav extends Component{
         // change color acordingly
         let current = e.target
         //checking if current element cotain the StarICon
-        if (current.classList.contains('fas')) {
+        // if (current.classList.contains('fas')) {
             this.props.getFavouriteIndex(index) //sending index of current array
-        }
+        // }
 
     }
 
